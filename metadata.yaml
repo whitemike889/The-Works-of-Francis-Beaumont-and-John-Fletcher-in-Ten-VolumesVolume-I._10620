@@ -1,0 +1,50 @@
+_repo: The-Works-of-Francis-Beaumont-and-John-Fletcher-in-Ten-VolumesVolume-I._10620
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Fletcher, John
+    aliases:
+    - Fletcher, Iohn
+    - Flecher, John
+    birthdate: 1579
+    deathdate: 1625
+    gutenberg_agent_id: '4606'
+    url: http://www.gutenberg.org/2009/agents/4606
+    wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_(playwright)
+  - agent_name: Beaumont, Francis
+    alias: Beamont, Francis
+    birthdate: 1584
+    deathdate: 1616
+    gutenberg_agent_id: '3603'
+    url: http://www.gutenberg.org/2009/agents/3603
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Beaumont
+  editor:
+    agent_name: Glover, Arnold
+    birthdate: 1865
+    deathdate: 1905
+    gutenberg_agent_id: '39381'
+    url: http://www.gutenberg.org/2009/agents/39381
+description: v. 1. The maid's tragedy ; Philaster ; A king and no king ; A scornful
+  lady ; The custom of the country -- v. 2. The elder brother ; The Spanish curate
+  ; Wit without money ; Beggar's bush ; The humorous lieutenant -- v. 3. The faithful
+  shepherdess ; The mad lover ; The loyal subject ; Rule a wife and have a wife ;
+  The laws of Candy -- v. 4. The false one ; The little French lawyer ; Valentinian
+  ; Monsieur Thomas ; The chances.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'The maids tragedy -- Philaster: or, love lies a bleeding -- A king,
+  and no king -- The scornful lady, a comedy -- The custom of the country.'
+title: 'The Works of Francis Beaumont and John Fletcher in Ten Volumes
+
+  Volume I.'
+url: http://www.gutenberg.org/ebooks/10620
