@@ -1,5 +1,8 @@
 _repo: The-Works-of-Francis-Beaumont-and-John-Fletcher-in-Ten-VolumesVolume-I._10620
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Fletcher, John
@@ -30,6 +33,8 @@ description: v. 1. The maid's tragedy ; Philaster ; A king and no king ; A scorn
   shepherdess ; The mad lover ; The loyal subject ; Rule a wife and have a wife ;
   The laws of Candy -- v. 4. The false one ; The little French lawyer ; Valentinian
   ; Monsieur Thomas ; The chances.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10620#The-Works-of-Francis-Beaumont-and-John-Fletcher-in-Ten-VolumesVolume-I.
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
